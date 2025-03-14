@@ -1,0 +1,62 @@
+{
+  "products": [
+    {
+      "name": "Produit 1",
+      "price": 100
+    },
+    {
+      "name": "Ordinateur Portable",
+      "price": 1200
+    },
+    {
+      "name": "Smartphone",
+      "price": 800
+    },
+    {
+      "name": "Casque Audio",
+      "price": 150
+    },
+    {
+      "name": "Montre Connectée",
+      "price": 250
+    },
+    {
+      "name": "Clé USB 64GB",
+      "price": 40
+    },
+    {
+      "name": "Tapis de souris",
+      "price": 55
+    }
+  ],
+  "orders": [
+    {
+      "product": "Produit 1",
+      "quantity": 2
+    },
+    {
+      "product": "Ordinateur Portable",
+      "quantity": 1
+    },
+    {
+      "product": "Smartphone",
+      "quantity": 3
+    },
+    {
+      "product": "Casque Audio",
+      "quantity": 5
+    },
+    {
+      "product": "Montre Connectée",
+      "quantity": 4
+    },
+    {
+      "product": "Clé USB 64GB",
+      "quantity": 10
+    },
+    {
+      "product": "Smartphone",
+      "quantity": 4
+    }
+  ]
+}
