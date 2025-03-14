@@ -79,7 +79,7 @@ Future<void> getProducts(String baseUrl) async {
 }
 ```
 ### Capture d'écran de l'appel GET dans Postman :
-![alt text](img-1.png)
+![alt text](images/img-1.png)
 
 **Explication :**  
 Cette fonction Dart envoie une requête GET pour récupérer la liste des produits depuis l'API Express. Elle décode la réponse JSON et affiche les produits.
@@ -103,7 +103,7 @@ Future<void> addProduct(String baseUrl, Map<String, dynamic> product) async {
 }
 ```
 ### Capture d'écran de l'appel POST dans Postman :
-![alt text](img-2.png)
+![alt text](images/img-2.png)
 
 
 **Explication :** 
@@ -127,7 +127,7 @@ Future<void> getOrders(String baseUrl) async {
 }
 ```
 ### Capture d'écran de l'appel GET des commandes dans Postman :
-![alt text](img-3.png)
+![alt text](images/img-3.png)
 
 
 **Explication :** 
@@ -152,7 +152,7 @@ Future<void> addOrder(String baseUrl, Map<String, dynamic> order) async {
 }
 ```
 ### Capture d'écran de l'appel POST dans Postman :
-![alt text](img-4.png)
+![alt text](images/img-4.png)
 
 
 **Explication :** 
