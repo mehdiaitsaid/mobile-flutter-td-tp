@@ -1,0 +1,312 @@
+{
+  "produits": [
+    {
+      "nom": "iPhone 15 Pro",
+      "prix": 15000,
+      "stock": 10,
+      "categorie": "Téléphone"
+    },
+    {
+      "nom": "iPhone 15",
+      "prix": 10000,
+      "stock": 5,
+      "categorie": "Téléphone"
+    },
+    {
+      "nom": "Samsung Galaxy S23",
+      "prix": 12000,
+      "stock": 15,
+      "categorie": "Téléphone"
+    },
+    {
+      "nom": "Lenovo ThinkPad",
+      "prix": 2000,
+      "stock": 13,
+      "categorie": "Ordinateur portable"
+    },
+    {
+      "nom": "iPhone 15 Pro Max",
+      "prix": 9999.99,
+      "stock": 25,
+      "categorie": "Téléphone"
+    },
+    {
+      "nom": "MacBook Air M4",
+      "prix": 12999.99,
+      "stock": 50,
+      "categorie": "Ordinateur portable"
+    },
+    {
+      "nom": "Samsung Galaxy S23 Ultra",
+      "prix": 12499.99,
+      "stock": 30,
+      "categorie": "Téléphone"
+    },
+    {
+      "nom": "Samsung Galaxy S24 Edge",
+      "prix": 9999.99,
+      "stock": 50,
+      "categorie": "Téléphone"
+    },
+    {
+      "nom": "Samsung Galaxy A52",
+      "prix": 1900,
+      "stock": 15,
+      "categorie": "Téléphone"
+    },
+    {
+      "nom": "Samsung Galaxy A47",
+      "prix": 1900,
+      "stock": 15,
+      "categorie": "Téléphone"
+    },
+    {
+      "nom": "Dell XPS 13",
+      "prix": 9500,
+      "stock": 8,
+      "categorie": "Ordinateur portable"
+    },
+    {
+      "nom": "HP Spectre x360",
+      "prix": 11000,
+      "stock": 6,
+      "categorie": "Ordinateur portable"
+    },
+    {
+      "nom": "Google Pixel 8",
+      "prix": 12000,
+      "stock": 12,
+      "categorie": "Téléphone"
+    },
+    {
+      "nom": "OnePlus 11",
+      "prix": 8500,
+      "stock": 18,
+      "categorie": "Téléphone"
+    },
+    {
+      "nom": "Sony PlayStation 5",
+      "prix": 8000,
+      "stock": 20,
+      "categorie": "Console de jeu"
+    },
+    {
+      "nom": "Xbox Series X",
+      "prix": 9500,
+      "stock": 14,
+      "categorie": "Console de jeu"
+    },
+    {
+      "nom": "Apple Watch Ultra",
+      "prix": 12000,
+      "stock": 25,
+      "categorie": "Montre connectée"
+    },
+    {
+      "nom": "Samsung Galaxy Watch 6",
+      "prix": 8000,
+      "stock": 30,
+      "categorie": "Montre connectée"
+    },
+    {
+      "nom": "Bose QuietComfort 45",
+      "prix": 3500,
+      "stock": 12,
+      "categorie": "Casque audio"
+    },
+    {
+      "nom": "Sony WH-1000XM5",
+      "prix": 4500,
+      "stock": 22,
+      "categorie": "Casque audio"
+    },
+    {
+      "nom": "Apple AirPods Pro 2",
+      "prix": 3000,
+      "stock": 35,
+      "categorie": "Casque audio"
+    },
+    {
+      "nom": "Acer Predator Helios 300",
+      "prix": 14000,
+      "stock": 10,
+      "categorie": "Ordinateur portable"
+    },
+    {
+      "nom": "Huawei MateBook X Pro",
+      "prix": 12000,
+      "stock": 8,
+      "categorie": "Ordinateur portable"
+    },
+    {
+      "nom": "Xiaomi Mi 11",
+      "prix": 6500,
+      "stock": 20,
+      "categorie": "Téléphone"
+    },
+    {
+      "nom": "Oculus Quest 2",
+      "prix": 4500,
+      "stock": 18,
+      "categorie": "Casque VR"
+    },
+    {
+      "nom": "GoPro HERO 10",
+      "prix": 5000,
+      "stock": 15,
+      "categorie": "Caméra sportive"
+    },
+    {
+      "nom": "DJI Air 2S",
+      "prix": 15000,
+      "stock": 7,
+      "categorie": "Drone"
+    },
+    {
+      "nom": "Samsung Galaxy Tab S7",
+      "prix": 9000,
+      "stock": 15,
+      "categorie": "Tablette"
+    },
+    {
+      "id": 11,
+      "total": 21000,
+      "produits": [
+        {
+          "nom": "Samsung Galaxy A52",
+          "quantite": 10
+        }
+      ]
+    }
+  ],
+  "commandes": [
+    {
+      "id": 1,
+      "total": 16000,
+      "produits": [
+        {
+          "nom": "iPhone 15 Pro",
+          "quantite": 1
+        },
+        {
+          "nom": "Lenovo ThinkPad",
+          "quantite": 3
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "total": 141999.96,
+      "produits": [
+        {
+          "nom": "MacBook Air M4",
+          "quantite": 4
+        },
+        {
+          "nom": "iPhone 15 Pro",
+          "quantite": 6
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "total": 10500,
+      "produits": [
+        {
+          "nom": "Samsung Galaxy A52",
+          "quantite": 5
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "total": 32000,
+      "produits": [
+        {
+          "nom": "Dell XPS 13",
+          "quantite": 2
+        },
+        {
+          "nom": "Sony PlayStation 5",
+          "quantite": 1
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "total": 14500,
+      "produits": [
+        {
+          "nom": "HP Spectre x360",
+          "quantite": 2
+        },
+        {
+          "nom": "iPhone 15",
+          "quantite": 4
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "total": 32000,
+      "produits": [
+        {
+          "nom": "Samsung Galaxy S23 Ultra",
+          "quantite": 4
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "total": 29000,
+      "produits": [
+        {
+          "nom": "MacBook Air M4",
+          "quantite": 2
+        },
+        {
+          "nom": "Apple Watch Ultra",
+          "quantite": 3
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "total": 25500,
+      "produits": [
+        {
+          "nom": "OnePlus 11",
+          "quantite": 3
+        },
+        {
+          "nom": "Bose QuietComfort 45",
+          "quantite": 2
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "total": 25000,
+      "produits": [
+        {
+          "nom": "Samsung Galaxy S23",
+          "quantite": 5
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "total": 27000,
+      "produits": [
+        {
+          "nom": "iPhone 15 Pro Max",
+          "quantite": 2
+        },
+        {
+          "nom": "DJI Air 2S",
+          "quantite": 1
+        }
+      ]
+    }
+  ]
+}
