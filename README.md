@@ -1,21 +1,59 @@
-# 📱 Module Mobile avec Flutter - Travaux Dirigés & Pratiques 🚀  
+# TP Backend et Client Dart
 
-Bienvenue dans le repo officiel du **Module Mobile avec Flutter**. Ce repo contient tous les **Travaux Dirigés (TDs)** et **Travaux Pratiques (TPs)** pour apprendre le développement mobile (Flutter).  
+Ce projet comprend :
+- Un backend en Node.js pour gérer des produits et des commandes.
+- Un client en Dart pour interagir avec l'API.
 
-## 📂 Contenu du dépôt  
+## Instructions
 
-### 📌 Travaux Dirigés (TDs)  
+### Backend (Node.js)
 
-- **[TD1 - Gestion d’un Système de Commandes en Dart](TD1/TD1.md)** 🛠  
-  Ce TD vous permettra de pratiquer la manipulation des listes, la gestion des entrées/sorties et la gestion des erreurs en Dart.   
+1. Allez dans le dossier `backend` :
+   ```bash
+   cd backend
 
-### 🛠 Travaux Pratiques (TPs)  
-Les TPs sont des mises en pratique avancées pour développer des applications complètes.  
+2. Installez les dépendances :
+npm install
 
-- **[TP1 - Développement d’une API et d’un client Dart](TP1/TP1.md)** 💻  
-  Implémentation d’une API Express.js pour la gestion des produits et commandes, et développement d’un client Dart.  
+3. Démarrez le serveur :
+node server.js
 
+Le serveur sera accessible à l'adresse : http://localhost:3000.
 
+### Client Dart
 
+1. Allez dans le dossier client :
+cd client
 
-🎯 **Bonne programmation et amusez-vous avec Flutter !** 🚀🔥  
+2. Installez les dépendances :
+dart pub get
+
+3. Exécutez le client :
+dart run
+
+Le client interagira avec le serveur backend en cours d'exécution.
+
+## Fonctionnalités
+
+### Backend
+• GET /Produit : Récupère la liste des produits.
+
+• POST /Produit : Ajoute un nouveau produit.
+
+• GET /Commande : Récupère la liste des commandes.
+
+• POST /Commande : Ajoute une nouvelle commande.
+
+### Client Dart 
+• Récupère et affiche les produits.
+
+• Ajoute un produit.
+
+• Récupère et affiche les commandes.
+
+• Ajoute une commande.
+
+## Auteur 
+• Nom : Chaimaa Matrag 
+• Email : matragchaimaa@gmail.com
+• GitHub : https://github.com/ChaimaaMatrag
