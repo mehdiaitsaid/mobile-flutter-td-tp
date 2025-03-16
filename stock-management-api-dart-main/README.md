@@ -23,14 +23,14 @@ L'objectif de ce projet est de créer une solution permettant :
 Voici la structure des dossiers et fichiers :
 ```
 /gestion-stock-app/
-├── application_mobile/               # Application Flutter mobile
-│   ├── main.dart                     # Point d'entrée de l'application mobile, gère l'UI et la logique d'interaction avec l'API.
-│   ├── pubspec.yaml                  # Fichier de configuration pour Flutter, incluant les dépendances et les configurations du projet mobile.
-│   └── pubspec.lock                  # Fichier généré par Flutter pour verrouiller les versions des dépendances.
+├── application_mobile/               
+│   ├── main.dart                     # Interface simple qui gère l'UI et la logique d'interaction avec l'API.
+│   ├── pubspec.yaml                  # Fichier de configuration pour Dart, incluant les dépendances et les configurations du projet mobile.
+│   └── pubspec.lock                  # Fichier généré par Dart pour verrouiller les versions des dépendances.
 │ 
 ├── client_api/                       # Client API Flutter pour interagir avec l'API serveur
 │   ├── client_api.dart               # Contient des méthodes statiques pour interagir avec l'API (ajouter des produits/commandes, récupérer la liste des produits/commandes).
-│   ├── pubspec.yaml                  # Configuration pour les dépendances du client API Flutter.
+│   ├── pubspec.yaml                  # Configuration pour les dépendances du client API Dart.
 │   └── pubspec.lock                  # Fichier généré pour verrouiller les versions des dépendances.
 │ 
 ├── serveur_api/                      # Backend qui gère l'API
