@@ -1,0 +1,14 @@
+[
+  {
+    "nom": "Smartphone A02",
+    "prix": 1999.99,
+    "stock": 48,
+    "categorie": "Phone"
+  },
+  {
+    "nom": "Écouteurs ZETK",
+    "prix": 999.99,
+    "stock": 79,
+    "categorie": "Écouteurs"
+  }
+]

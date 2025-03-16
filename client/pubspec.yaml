@@ -1,0 +1,8 @@
+name: api_client
+description: Un client Dart pour interagir avec l'API REST Express
+
+environment:
+  sdk: '>=2.19.0 <3.0.0'
+
+dependencies:
+  http: ^0.13.5
