@@ -16,4 +16,4 @@ dev_dependencies:
 
 executables:
   api_client:
-    script: ./client.dart
+    script: client.dart
