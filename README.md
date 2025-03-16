@@ -1,4 +1,4 @@
-# 📱 Solutions proposées des Travaux Dirigés & Travaux Pratiques 🚀
+# Solutions proposées des Travaux Dirigés & Travaux Pratiques
 
 Bienvenue dans mon dépôt personnel des **Solutions des Travaux Dirigés (TDs)** et **Travaux Pratiques (TPs)** du **Module Mobile avec Flutter**. Dans ce repo, je partage les solutions que j'ai réalisées pour les différents TDs et TPs.
 
