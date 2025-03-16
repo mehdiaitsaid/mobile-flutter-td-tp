@@ -1,7 +1,7 @@
-**/*.dart
-**/*.js
-**/*.json
-**/*.yaml
-**/*.yml
-**/*.lock
-**/*.dart_tool
+# Fichiers à ignorer pour Node.js
+backend/node_modules
+backend/package-lock.json
+
+# Fichiers à ignorer pour Dart
+client/.dart_tool
+client/pubspec.lock
