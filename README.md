@@ -1,21 +1,21 @@
-# 📱 Module Mobile avec Flutter - Travaux Dirigés & Pratiques 🚀  
+# 📱 Module Mobile avec Flutter - Solutions des Travaux Dirigés & Travaux Pratiques 🚀
 
-Bienvenue dans le repo officiel du **Module Mobile avec Flutter**. Ce repo contient tous les **Travaux Dirigés (TDs)** et **Travaux Pratiques (TPs)** pour apprendre le développement mobile (Flutter).  
+Bienvenue dans mon dépôt personnel des **Solutions des Travaux Dirigés (TDs)** et **Travaux Pratiques (TPs)** du **Module Mobile avec Flutter**. Dans ce repo, je partage les solutions que j'ai réalisées pour les différents TDs et TPs, afin de vous aider à mieux comprendre les concepts abordés et à progresser dans le développement mobile avec Flutter.
 
-## 📂 Contenu du dépôt  
+## 📂 Contenu du dépôt
 
-### 📌 Travaux Dirigés (TDs)  
+### 📌 Travaux Dirigés (TDs)
 
 - **[TD1 - Gestion d’un Système de Commandes en Dart](TD1/TD1.md)** 🛠  
-  Ce TD vous permettra de pratiquer la manipulation des listes, la gestion des entrées/sorties et la gestion des erreurs en Dart.   
+  Dans ce TD, j'ai travaillé sur la manipulation des listes, la gestion des entrées/sorties et la gestion des erreurs en Dart. Vous trouverez la solution complète que j'ai développée, avec des explications détaillées sur chaque étape.
 
-### 🛠 Travaux Pratiques (TPs)  
-Les TPs sont des mises en pratique avancées pour développer des applications complètes.  
+### 🛠 Travaux Pratiques (TPs)
+
+Les TPs sont des projets plus avancés qui permettent de développer des applications complètes. J'y ai mis en pratique les concepts appris et résolu les exercices proposés.
 
 - **[TP1 - Développement d’une API et d’un client Dart](TP1/TP1.md)** 💻  
-  Implémentation d’une API Express.js pour la gestion des produits et commandes, et développement d’un client Dart.  
+  Dans ce TP, j'ai implémenté une API Express.js pour la gestion des produits et des commandes, ainsi que le développement d’un client Dart pour interagir avec cette API. La solution détaillée et les étapes de mon travail sont disponibles ici.
 
+---
 
-
-
-🎯 **Bonne programmation et amusez-vous avec Flutter !** 🚀🔥  
+**Laktaibi Ayoub - LST SITD 2024/2025**
