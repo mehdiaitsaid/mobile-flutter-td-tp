@@ -1,8 +1,0 @@
-**/*.dart
-**/*.js
-**/*.json
-**/*.yaml
-**/*.yml
-**/*.lock
-**/*.dart_tool
-**/node_modules
