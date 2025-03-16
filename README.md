@@ -13,28 +13,28 @@ Ce projet comprend :
    cd backend
 
 2. Installez les dépendances :
-```bash
-npm install
+   ```bash
+   npm install
 
 3. Démarrez le serveur :
-```bash
-node server.js
+   ```bash
+   node server.js
 
 Le serveur sera accessible à l'adresse : http://localhost:3000.
 
 ### Client Dart
 
 1. Allez dans le dossier client :
-```bash
-cd client
+   ```bash
+   cd client
 
 2. Installez les dépendances :
-```bash
-dart pub get
+   ```bash
+   dart pub get
 
 3. Exécutez le client :
-```bash
-dart run
+   ```bash
+   dart run
 
 Le client interagira avec le serveur backend en cours d'exécution.
 
