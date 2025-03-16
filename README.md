@@ -14,7 +14,7 @@ Bienvenue dans mon dépôt personnel des **Solutions des Travaux Dirigés (TDs)*
 Les TPs sont des projets plus avancés qui permettent de développer des applications complètes. J'y ai mis en pratique les concepts appris et résolu les exercices proposés.
 
 - **[TP1 - Développement d’une API et d’un client Dart](TP1/TP1.md)** 💻  
-  Dans ce TP, j'ai implémenté une API Express.js [Voir backend](TP1/backend) pour la gestion des produits et des commandes, ainsi que le développement d’un client Dart pour interagir avec cette API [Voir api_client](TP1/api_client).
+  Dans ce TP, j'ai implémenté une API Express.js Voir backend(TP1/backend) pour la gestion des produits et des commandes, ainsi que le développement d’un client Dart pour interagir avec cette API [Voir api_client](TP1/api_client).
 
 ---
 
