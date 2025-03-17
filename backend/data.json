@@ -1,0 +1,117 @@
+{
+  "produits": [
+    {
+      "id": 1,
+      "nom": "Razer DeathAdder V2",
+      "prix": 59.99,
+      "stock": 17
+    },
+    {
+      "id": 2,
+      "nom": "Logitech G Pro X",
+      "prix": 129.99,
+      "stock": 15
+    },
+    {
+      "id": 3,
+      "nom": "FinalMouse Ultralight 2",
+      "prix": 89.99,
+      "stock": 10
+    },
+    {
+      "id": 4,
+      "nom": "Corsair K95 RGB Platinum",
+      "prix": 199.99,
+      "stock": 1
+    },
+    {
+      "id": 5,
+      "nom": "NVIDIA RTX 3080",
+      "prix": 699.99,
+      "stock": 3
+    },
+    {
+      "id": 6,
+      "nom": "Intel Core i9-11900K",
+      "prix": 499.99,
+      "stock": 8
+    },
+    {
+      "id": 7,
+      "nom": "Gaming headset",
+      "prix": 22,
+      "stock": 4
+    },
+    {
+      "id": 8,
+      "nom": "Razert Deathadder Essential",
+      "prix": 29.99,
+      "stock": 22
+    },
+    {
+      "id": 9,
+      "nom": "MacBook Air 2019",
+      "prix": 729,
+      "stock": 0
+    },
+    {
+      "id": 10,
+      "nom": "MacBook Air 2019",
+      "prix": 729.99,
+      "stock": 3
+    },
+    {
+      "id": 11,
+      "nom": "Logitech G502",
+      "prix": 49.99,
+      "stock": 3
+    }
+  ],
+  "commandes": [
+    {
+      "id": 1,
+      "produits": [
+        {
+          "id": 1,
+          "quantite": 2
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "produits": [
+        {
+          "id": 1,
+          "quantite": 1
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "produits": [
+        {
+          "id": 7,
+          "quantite": 4
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "produits": [
+        {
+          "id": 1,
+          "quantite": 3
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "produits": [
+        {
+          "id": 9,
+          "quantite": 3
+        }
+      ]
+    }
+  ]
+}
