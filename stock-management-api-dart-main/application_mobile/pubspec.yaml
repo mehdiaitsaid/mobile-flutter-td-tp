@@ -1,0 +1,20 @@
+name: gestion_commandes
+description: "Application mobile en Dart pour gérer les commandes"
+version: 1.0.0
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+
+dependencies:
+  flutter: 
+    sdk: flutter
+  http: ^0.13.6 # Requêtes HTTP pour interagir avec l’API
+  provider: ^6.0.5 # Gestion de l’état
+  shared_preferences: ^2.2.2 # Stockage local des données (facultatif)
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
