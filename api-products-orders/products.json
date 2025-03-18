@@ -1,0 +1,67 @@
+[
+    {
+      "id": 1,
+      "name": "Produit A",
+      "price": 20.99
+    },
+    {
+      "id": 2,
+      "name": "Produit B",
+      "price": 15.49
+    },
+    {
+      "id": 3,
+      "name": "Produit C",
+      "price": 25.99
+    },
+    {
+      "id": 4,
+      "name": "Produit N",
+      "price": 29.99
+    },
+    {
+      "id": 5,
+      "name": "Produit E",
+      "price": 40.99
+    },
+    {
+      "name": "Produit Exemple",
+      "price": 100,
+      "id": 6
+    },
+    {
+      "name": "Produit Exemple",
+      "price": 100,
+      "id": 7
+    },
+    {
+      "name": "Produit Exemple",
+      "price": 100,
+      "id": 8
+    },
+    {
+      "name": "Produit Exemple",
+      "price": 100,
+      "id": 9
+    },
+    {
+      "name": "Produit Exemple",
+      "price": 100,
+      "id": 10
+    },
+    {
+      "name": "Produit Exemple",
+      "price": 100,
+      "id": 11
+    },
+    {
+      "name": "Produit Exemple",
+      "price": 100,
+      "id": 12
+    },
+    {
+      "name": "Produit Exemple",
+      "price": 100,
+      "id": 13
+    }
+  ]
