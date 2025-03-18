@@ -1,0 +1,44 @@
+{
+  "produits": [
+    {
+      "nom": "iPhone 15 Pro",
+      "prix": 15000,
+      "stock": 10,
+      "categorie": "Phone"
+    },
+    {
+      "nom": "iPhone 15",
+      "prix": 1000,
+      "stock": 5,
+      "categorie": "Phone"
+    },
+    {
+      "nom": "Samsung Galaxy Tab S7",
+      "prix": 9000,
+      "stock": 15,
+      "categorie": "Tablette"
+    }
+  ],
+  "commandes": [
+    {
+      "id": 1,
+      "produits": [
+        {
+          "nom": "iPhone 15",
+          "quantite": 1
+        }
+      ],
+      "total": 1000
+    },
+    {
+      "id": 2,
+      "total": 21000,
+      "produits": [
+        {
+          "nom": "Samsung Galaxy A52",
+          "quantite": 10
+        }
+      ]
+    }
+  ]
+}
