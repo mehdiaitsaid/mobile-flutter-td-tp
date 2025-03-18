@@ -1,6 +1,4 @@
-**/*.dart
-**/*.js
-**/*.json
+
 **/*.yaml
 **/*.yml
 **/*.lock
