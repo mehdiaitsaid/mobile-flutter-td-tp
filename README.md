@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+"# Projet Flutter" 
+=======
 # 📱 Module Mobile avec Flutter - Travaux Dirigés & Pratiques 🚀  
 
 Bienvenue dans le repo officiel du **Module Mobile avec Flutter**. Ce repo contient tous les **Travaux Dirigés (TDs)** et **Travaux Pratiques (TPs)** pour apprendre le développement mobile (Flutter).  
@@ -24,3 +27,4 @@ Les TPs sont des mises en pratique avancées pour développer des applications c
 
 
 🎯 **Bonne programmation et amusez-vous avec Flutter !** 🚀🔥  
+>>>>>>> upstream/main
