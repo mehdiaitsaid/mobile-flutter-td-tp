@@ -1,26 +1,9 @@
 {
   "products": [
-    {},
-    {},
+    
     {
       "name": "Laptop",
       "price": 1200
-    },
-    {
-      "product": "Laptop",
-      "quantity": 1
-    },
-    {
-      "product": "Laptop",
-      "quantity": 1
-    },
-    {
-      "product": "Laptop",
-      "quantity": 1
-    },
-    {
-      "product": "Laptop",
-      "quantity": 1
     }
   ],
   "orders": [
