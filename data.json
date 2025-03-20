@@ -1,0 +1,15 @@
+{
+  "products": [
+    
+    {
+      "name": "Laptop",
+      "price": 1200
+    }
+  ],
+  "orders": [
+    {
+      "product": "Laptop",
+      "quantity": 1
+    }
+  ]
+}
